@@ -1,1 +1,2 @@
-my first demo git 
+my first demo git ..
+ i have done changes
